@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myshop.iml" filepath="$PROJECT_DIR$/myshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_back/shop_back.iml" filepath="$PROJECT_DIR$/shop_web/shop_back/shop_back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_cart/shop_cart.iml" filepath="$PROJECT_DIR$/shop_web/shop_cart/shop_cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_commons/shop_commons.iml" filepath="$PROJECT_DIR$/shop_commons/shop_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_entity/shop_entity.iml" filepath="$PROJECT_DIR$/shop_entity/shop_entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_front/shop_front.iml" filepath="$PROJECT_DIR$/shop_web/shop_front/shop_front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_micservice/shop_goods/shop_goods.iml" filepath="$PROJECT_DIR$/shop_micservice/shop_goods/shop_goods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_mail/shop_mail.iml" filepath="$PROJECT_DIR$/shop_web/shop_mail/shop_mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_micservice/shop_micservice.iml" filepath="$PROJECT_DIR$/shop_micservice/shop_micservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" filepath="$PROJECT_DIR$/shop_web/shop_search/shop_search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_micservice/shop_searchservice/shop_searchservice.iml" filepath="$PROJECT_DIR$/shop_micservice/shop_searchservice/shop_searchservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_service_api/shop_service_api.iml" filepath="$PROJECT_DIR$/shop_service_api/shop_service_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_sso/shop_sso.iml" filepath="$PROJECT_DIR$/shop_web/shop_sso/shop_sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_micservice/shop_user/shop_user.iml" filepath="$PROJECT_DIR$/shop_micservice/shop_user/shop_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop_web/shop_web.iml" filepath="$PROJECT_DIR$/shop_web/shop_web.iml" />
+    </modules>
+  </component>
+</project>

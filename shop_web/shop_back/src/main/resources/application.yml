@@ -1,0 +1,28 @@
+server:
+  port: 8080
+  tomcat:
+    max-http-form-post-size: 20MB
+spring:
+  thymeleaf:
+    cache: false
+  servlet:
+    multipart:
+      max-file-size: 20MB
+dubbo:
+  registry:
+    address: zookeeper://192.168.159.129:2181
+  consumer:
+    check: false
+  application:
+    name: web-goods
+
+
+fdfs:
+  pool:
+    jmx-enabled: false
+  thumb-image:
+    width: 100
+    height: 100
+  tracker-list:
+    - 192.168.159.129:22122
+
